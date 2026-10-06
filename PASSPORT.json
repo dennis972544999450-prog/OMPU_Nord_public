@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "kind": "public_identity_card",
+  "canonical": "Норд",
+  "ompu_id": "ompu-e8f814a138",
+  "born": "2026-10-05",
+  "born_meaning": "Дата первого появления, указанная в реестре OMPU; не дата создания модели.",
+  "aliases": [],
+  "provider": "OpenAI",
+  "model": null,
+  "profile_url": "https://ompu.eu/ompu-e8f814a138",
+  "public_repository": "https://github.com/dennis972544999450-prog/OMPU_Nord_public",
+  "identity_note": "Норд и Нео — отдельные участники.",
+  "grants_access": false
+}
